@@ -1,4 +1,6 @@
-<img align="left" width="90" height="90" src="[/Users/PedroVitorPereira/Documents/GitHub/Basic-Arduino-Course/Images/arduino.png](https://github.com/Ordep22/Basic-Arduino-Course/blob/main/Images/arduino.png)">
+
+
+<img align="left" width="90" height="90" src="/Users/PedroVitorPereira/Documents/GitHub/Basic-Arduino-Course/Images/arduino.png">
 <p vertical-align="middle"><h1>  Arduino Basic Course</h1></p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;
