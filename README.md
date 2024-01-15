@@ -29,7 +29,9 @@ Welcome to my Arduino Basic Course repository. In this repository, I will share 
 6. Initial Deployment of Digital Read Ports in Three Cases:
 
     6.1 Digital Read to Turn On an LED ✅
+
     6.2 Digital Read to Toggle LED State from On to Off ✅
+    
     6.3 Digital Read to Toggle LED State from On to Off with Debouncing Implementation ✅
 
 
