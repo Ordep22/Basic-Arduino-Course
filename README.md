@@ -22,15 +22,16 @@ Welcome to my Arduino Basic Course repository. In this repository, I will share 
 ### 📚 Content
 <hr>
 
-1.  Working in progress ⚙️
+4. Constructing a Semaphore with LEDs: Incorporating defines and generic functions. ✅
 
-2. Working in progress ⚙️
+5. Implementing Pulse Width Modulation Techniques. ✅
 
-3. Working in progress ⚙️
+6. Initial Deployment of Digital Read Ports in Three Cases:
 
-4. Building a semaphore with LEDs: Implementing defines and generic functions. ✅
+    6.1 Digital Read to Turn On an LED ✅
+    6.2 Digital Read to Toggle LED State from On to Off ✅
+    6.3 Digital Read to Toggle LED State from On to Off with Debouncing Implementation ✅
 
-5. Next steps, working in progress ⚙️
 
 
  
